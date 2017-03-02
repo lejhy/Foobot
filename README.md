@@ -4,4 +4,6 @@ S small JavaFX program I hacked together for a friend of mine. It sends a GET re
 
 His version had a list of preset devices built into it as well as options to add new devices and remove the ones no longer used. It saves data in a .config file on exit and then retrieves it on load.
 
-![UI] (UI.PNG)
+## User interface
+
+![User interface] (UI.PNG)
