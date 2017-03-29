@@ -6,4 +6,4 @@ His version had a list of preset devices built into it as well as options to add
 
 ## User interface
 
-![User interface] (UI.PNG)
+![User interface](UI.PNG)
